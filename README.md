@@ -1,4 +1,4 @@
-# Map
+# Tourhunter
 
 ## Project setup
 ```
